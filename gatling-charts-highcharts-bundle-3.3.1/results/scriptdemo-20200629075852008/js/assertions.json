@@ -1,0 +1,10 @@
+{
+  "simulation": "ScriptDemo",
+  "simulationId": "scriptdemo",
+  "start": 1593417532008,
+  "description": "",
+  "scenarios": ["Scenario Name"],
+  "assertions": [
+
+  ]
+}

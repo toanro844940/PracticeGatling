@@ -1,0 +1,10 @@
+{
+  "simulation": "mypackage.RecordedLandingPage",
+  "simulationId": "recordedlandingpage",
+  "start": 1593075810555,
+  "description": "",
+  "scenarios": ["RecordedLandingPage"],
+  "assertions": [
+
+  ]
+}
